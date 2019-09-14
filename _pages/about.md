@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me Harrison"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the Harrison's homepage.
+<img src="/images/casual_pic2.jpeg" width="500">
