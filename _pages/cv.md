@@ -25,7 +25,7 @@ Work experience
 Skills
 ------
 
-* **Programming**: Python (Sklearn, Pandas, Geopandas Nltk, Plotly Dash, Spark-Sklearn), R, SQL
+* **Programming**: Python (Sklearn, Pandas, Geopandas, Nltk, Plotly Dash, Spark-Sklearn), R, SQL
 * **Optimization**: CPLEX, Gurobi, CBC, Pulp, Glop
 * **Deep Learning**: PyTorch, Tensorflow, Keras, CoreML
 * **Deployment**: Domino Data Lab, AWS (Sagemaker, EC2, S3), Docker
