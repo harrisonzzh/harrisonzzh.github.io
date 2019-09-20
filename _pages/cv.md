@@ -19,7 +19,7 @@ Education
 Work experience
 ------
 * **Data Scientist**, Bayer Crop Science, *June 2018 - present*
-* **Lead Optimization Scientist**, Optifunder, *Dec 2018 - present*
+* **Lead Optimization Scientist**, Optifunder, *Dec 2018 - July 2019*
 * **Graduate Research Assistant**, Cornell University, *Dec 2017 - May 2018*
   
 Skills
